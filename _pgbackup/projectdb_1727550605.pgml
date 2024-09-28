@@ -3,7 +3,7 @@
     <dmdesigns>
         <dmdesign active>
             <dmdesignskill skill="bs5.colors">
-                <dmcolor key="primary" color="#657b69"/>
+                <dmcolor key="primary" color="#8c5dd9"/>
                 <dmcolor key="secondary" color="#6c757d"/>
                 <dmcolor key="info" color="#0dcaf0"/>
                 <dmcolor key="success" color="#198754"/>
