@@ -28,4 +28,3 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - Phone: [(561)-621-0964](tel:+15616210964)
 - GitHub: [@dazzletune](https://github.com/dazzletune)
 - Discord: [@dazzletune](https://discord.com/users/1153385697512804362)
-
