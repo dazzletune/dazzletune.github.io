@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Michael William Gunter</title>
-    <link>http://localhost:45563/tags/blog/</link>
+    <link>http://localhost:1313/tags/blog/</link>
     <description>Recent content in Blog on Michael William Gunter</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:45563/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Re-introduction is Needed For My Personal Website</title>
-      <link>http://localhost:45563/posts/re-introduction/</link>
+      <link>http://localhost:1313/posts/re-introduction/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45563/posts/re-introduction/</guid>
+      <guid>http://localhost:1313/posts/re-introduction/</guid>
       <description>&lt;p&gt;So after many years of inactivity, I have finally got the courage to re-introduce my personal website and blog to the public. I am glad that I am able to bring it back but I think I need to provide an overview of the history of me blogging about my interests online. It has been a long while since I made a blog post, and many people on GitHub having personal blogs using static site generators really inspired me to make my own blog without having to worry about security vulnerabilities of content management systems or having to manually hand code webpages entirely from scratch. So without further ado, here is the overview.&lt;/p&gt;</description>
     </item>
   </channel>
