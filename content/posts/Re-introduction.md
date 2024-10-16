@@ -1,5 +1,5 @@
 ---
-title: "A Re-introduction is Needed For My Personal Website"
+title: "A Re-introduction to My Personal Website"
 date: 2024-10-15
 description: "Re-introducing my personal website to the public after many years of inactivity and moving to various platforms"
 tags: ["reintroduction", "blog", "welcome"]
