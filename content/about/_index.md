@@ -5,7 +5,7 @@ draft = false
 layout = "single"
 +++
 
-I'm a passionate developer, computer enthusiast, and creative problem-solver, dedicated to crafting elegant solutions in the digital realm.
+Hi there. I am a passionate software developer, computer enthusiast, and creative problem-solver from the West Palm Beach, Florida area, dedicated to crafting elegant solutions in the digital realm.
 
 ### Education
 
@@ -16,8 +16,8 @@ I'm a passionate developer, computer enthusiast, and creative problem-solver, de
 ### Skills & Expertise
 
 - **Programming**: JavaScript, C++, Java, C#, Python
-- **Front-end Web Development**: HTML, CSS, Bootstrap
-- **Database Management**: MySQL, MariaDB
+- **Front-end Web Development**: HTML, CSS, jQuery, Bootstrap
+- **Database Management**: MySQL, MariaDB, SQLite
 - **DevOps**: Docker
 
 ### Let's Connect
