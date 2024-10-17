@@ -12,7 +12,7 @@ Hi there. I am a passionate software developer, computer enthusiast, and creativ
 - **Bachelor of Science (B.Sc.) in Information Technology**
   - *School of Information, Florida State University, June 2014 － May 2018*
   - Cumulative GPA: 3.35
-  - Relevant Coursework: Information Technologies (LIS 3353), Intermediate Database Analysis (LIS 3784), Advanced Web Applications Development (LIS 4368), Information Technology Leadership (LIS 4480r), User Experience Design (LIS 4351), Information Systems and Services (LIS 3706)
+  - Relevant Coursework: Ethical Issues and Life Choices (PHI2630), Information Technologies (LIS 3353), Intermediate Database Analysis (LIS 3784), Advanced Web Applications Development (LIS 4368), Information Technology Leadership (LIS 4480r), User Experience Design (LIS 4351), Information Systems and Services (LIS 3706)
 
 - **Minor in Computer Science**
   - *Department of Computer Science, College of Arts and Sciences, Florida State University, August 2016 － May 2018*
