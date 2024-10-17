@@ -38,7 +38,7 @@ Try out KaTeX [on the demo page](https://katex.org/#demo)!
 
     <!-- To automatically render math in text elements, include the auto-render extension: -->
     <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.3/dist/contrib/auto-render.min.js" integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous"
-        onload="renderMathInElement(document.body);"></script>
+        onload="renderMathInElement(document.body)!important;"></script>
   </head>
   ...
 </html>
@@ -56,7 +56,7 @@ For example:
 ```js
 katex.render("c = \\pm\\sqrt{a^2 + b^2}", element, {
     throwOnError: false
-});
+})!important;
 ```
 
 Call `katex.renderToString` to generate an HTML string of the rendered math,
@@ -65,7 +65,7 @@ e.g., for server-side rendering.  For example:
 ```js
 var html = katex.renderToString("c = \\pm\\sqrt{a^2 + b^2}", {
     throwOnError: false
-});
+})!important;
 // '<span class="katex">...</span>'
 ```
 
