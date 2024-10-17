@@ -16,7 +16,7 @@ Here are a list of relevant projects that I worked on over the years to expand m
    - Replicated the "Aero Shake" feature of Windows 7 for the Cinnamon desktop environment using knowledge of the GNOME/Cinnamon desktop extension APIs and past programming experience.
 
 3. **[HTML Project](https://github.com/dazzletune/HTMLProject)**
-   - Created mock restaurant website to practice and build front-end web development skills.
+   - Developed a mock restaurant website to practice and build front-end web development skills.
    - Learned important concepts in web design, HTML, CSS, and responsive web design principles.
 
 For more projects, visit my [GitHub profile](https://github.com/dazzletune).
