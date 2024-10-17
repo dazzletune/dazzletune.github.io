@@ -20,7 +20,6 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
 
     front_page_content = ["posts"] # Equivalent to the default value, add page bundle names to include them on the front page.
-    customCSS = ["static/assets/css/custom_codeblock.css"]
     # MENU PLACEHOLDER
     # Menu dict keys:
         # Name:         The name to display on the menu.
