@@ -13,8 +13,8 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     brand = "Michael William Gunter" 
     mainSections = ["about"]
     # name of your site - appears in the sidebar
-    # remote_brand_image = 'https://github.com/USERNAME.png' # path to a remote file
-    brand_image = "/assets/images/brand.png"    # path to the image shown in the sidebar
+    remote_brand_image = 'https://github.com/dazzletune.png' # path to a remote file
+    # brand_image = "/assets/images/brand.png"    # path to the image shown in the sidebar
     description = "Front-end Web Developer, Help Desk Technician, Technology Enthusiast" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
     # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
