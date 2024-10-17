@@ -5,7 +5,6 @@ description: "Sample article showcasing basic Markdown syntax and formatting for
 tags: ["markdown", "css", "html"]
 type: post
 weight: 20
-draft: true
 showTableOfContents: true
 ---
 
