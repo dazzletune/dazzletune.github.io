@@ -10,7 +10,7 @@ Hi there. I am a passionate software developer, computer enthusiast, and creativ
 ### Education
 
 - **Bachelor of Science (B.Sc.) in Information Technology**
-  - *School of Information, Florida State University, June 2014 － May 2018*
+  - *School of Information, College of Communication and Information, Florida State University, June 2014 － May 2018*
   - Cumulative GPA: 3.35
   - Relevant Coursework: Ethical Issues and Life Choices (PHI 2630), Information Technologies (LIS 3353), Intermediate Database Analysis (LIS 3784), Advanced Web Applications Development (LIS 4368), Information Technology Leadership (LIS 4480r), User Experience Design (LIS 4351), Information Systems and Services (LIS 3706)
 
