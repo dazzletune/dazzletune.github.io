@@ -5,4 +5,4 @@ draft = false
 layout = "single"
 +++
 
-[Click here](/content/résumé/résumé.pdf) to download the PDF file.
+[Click here](https://raw.githubusercontent.com/dazzletune/dazzletune.github.io/blob/main/static/r%C3%A9sum%C3%A9.pdf) to download the PDF file.
