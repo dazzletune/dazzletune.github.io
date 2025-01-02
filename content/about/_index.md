@@ -1,11 +1,11 @@
 +++
 title = 'About'
-date = 2024-10-15T12:00:00Z
+date = 2025-01-2T12:00:00Z
 draft = false
 layout = "single"
 +++
 
-Hi there. I am a passionate software developer, computer enthusiast, and creative problem-solver from the West Palm Beach, Florida area, dedicated to crafting elegant solutions in the digital realm.
+Hi there. I have a passion for software development as a hobby, and I am a creative problem-solver from the West Palm Beach, Florida area, dedicated to improving the quality of life of not only myself, but also society.
 
 ### Education
 
