@@ -5,7 +5,7 @@ draft = false
 layout = "single"
 +++
 
-Hi there. I have a passion for software development as a hobby, and I am a creative problem-solver from the West Palm Beach, Florida area, dedicated to improving the quality of life of not only myself, but also society.
+Hi there. I have a passion for software development as a hobby, and I am also a creative problem-solver from the West Palm Beach, Florida area, dedicated to improving the quality of life of not only myself, but also society.
 
 ### Education
 
