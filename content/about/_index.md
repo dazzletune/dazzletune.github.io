@@ -1,6 +1,6 @@
 +++
 title = 'About'
-date = 2025-01-2T12:00:00Z
+date = 2025-01-02
 draft = false
 layout = "single"
 +++
