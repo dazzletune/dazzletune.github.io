@@ -21,7 +21,7 @@ Hi there. I have a passion for software development as a hobby, and I am also a 
 ### Skills & Expertise
 
 - **Programming**: JavaScript, C#, Python
-- **Front-end Web Development**: HTML, CSS, jQuery, Bootstrap
+- **Front-end Web Development**: HTML, CSS
 - **Database Management**: MySQL, MariaDB, SQLite
 - **DevOps**: Docker
 
