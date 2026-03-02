@@ -5,7 +5,7 @@ draft = false
 layout = "single"
 +++
 
-Hi, I'm Michael — a software developer and problem-solver based in the West Palm Beach, Florida area. Whether if it is a personal project or a professional challenge, I'm dedicated to delivering real value to customers and teams alike.
+Hi, I'm Michael — an IT professional and problem-solver who is inspired to apply my skills and talents to better my local community, in the West Palm Beach, Florida area. Whether if it is a personal project or a professional challenge, I'm dedicated to delivering real value to customers and teams alike.
 
 ## Education
 
