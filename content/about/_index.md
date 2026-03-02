@@ -7,7 +7,7 @@ layout = "single"
 
 Hi there. I have a passion for software development as a hobby, and I am also a creative problem-solver from the West Palm Beach, Florida area, dedicated to improving the quality of life of not only myself, but also society.
 
-### Education
+## Education
 
 - **Bachelor of Science (B.Sc.) in Information Technology**
   - *School of Information, College of Communication and Information, Florida State University, June 2014 － May 2018*
@@ -18,18 +18,16 @@ Hi there. I have a passion for software development as a hobby, and I am also a 
   - *Department of Computer Science, College of Arts and Sciences, Florida State University, August 2016 － May 2018*
   - Relevant Coursework: Object Oriented Programming in C++ (CGS 3406), Introduction to UNIX (COP 3353)
 
-### Skills & Expertise
+## Skills & Expertise
 
 - **Programming**: JavaScript, C#, Python
 - **Front-end Web Development**: HTML, CSS
 - **Database Management**: MySQL, MariaDB, SQLite
 - **DevOps**: Docker
 
-### Let's Connect
+## Let's Connect
 
 I'm always open to discussing new projects, creative ideas, or opportunities to add value to your life. Feel free to contact me!
 
-- Email: <mgunt5@outlook.com>
-- Phone: [(561)-621-0964](tel:+15616210964)
 - GitHub: [@dazzletune](https://github.com/dazzletune)
 - Discord: [@dazzletune](https://discord.com/users/1153385697512804362)
