@@ -15,7 +15,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     # name of your site - appears in the sidebar
     remote_brand_image = 'https://github.com/dazzletune.png' # path to a remote file
     # brand_image = "/assets/images/brand.png"    # path to the image shown in the sidebar
-    description = "Hobbyist Web Developer, and Technology Enthusiast" # Used as default meta description if not specified in front matter
+    description = "Technology Enthusiast, aspiring Junior Web Developer, and a lifelong learning" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
     # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
 
