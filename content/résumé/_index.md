@@ -5,4 +5,4 @@ draft = false
 layout = "single"
 +++
 
-[Click here](https://raw.githubusercontent.com/dazzletune/dazzletune.github.io/main/static/r%C3%A9sum%C3%A9.pdf) to download the PDF copy of my résumé.
+[Download the PDF copy of my résumé](https://raw.githubusercontent.com/dazzletune/dazzletune.github.io/main/static/Michael%20G.%20R%C3%A9sum%C3%A9.pdf).
